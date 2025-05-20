@@ -1,0 +1,15 @@
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\bin\Debug\net8.0\CodeEncode.exe
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\bin\Debug\net8.0\CodeEncode.deps.json
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\bin\Debug\net8.0\CodeEncode.runtimeconfig.json
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\bin\Debug\net8.0\CodeEncode.dll
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\bin\Debug\net8.0\CodeEncode.pdb
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.AssemblyInfoInputs.cache
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.AssemblyInfo.cs
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.csproj.CoreCompileInputs.cache
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.sourcelink.json
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.dll
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\refint\CodeEncode.dll
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.pdb
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\CodeEncode.genruntimeconfig.cache
+C:\Users\pizda\source\repos\CodeEncode\CodeEncode\obj\Debug\net8.0\ref\CodeEncode.dll
